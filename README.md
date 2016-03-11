@@ -22,7 +22,7 @@ Another example: assault gun is a deadly weapon on it's own. But you can apply c
 ![Alt text](/images/image4.png?raw=true "Optional Title")
 
 ### Decorator Design Pattern in java API
-
+----
 The readers of java API are designed using decorator design pattern
 * java.io.BufferedReader;
 * java.io.Reader;
